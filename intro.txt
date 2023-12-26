@@ -1,0 +1,16 @@
+What is oop ?
+Object oriented programming which is opposite to procedural programming (writing procedures). It involves creation of objects that contain both data and functions
+
+Why study oop ?
+
+-> Duplicate code is bad
+->Provides a clear modular structure for our program. 
+-> We can abstract and hide underlying complexity of code
+-> Makes it easy if small changes are to be made (especially in inheritance)
+
+Few limitations
+
+-> Large program (more lines of code)
+-> little slow compared with procedural programming as more lines code to be executed
+-> Not suitable for all problems
+-> steep learning curve
